@@ -1,4 +1,4 @@
-En el repositorio se encuentran los archivos de una aplicacición en JAVA implementando JPA + HIBERNATE
+En el repositorio se encuentran los archivos de una aplicacición en JAVA implementando JPA + HIBERNATE ENVERS
 
 Pasos para ejecutar el programa:
 1- Descargar el proyecto.
